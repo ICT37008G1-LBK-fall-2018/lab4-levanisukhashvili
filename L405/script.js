@@ -35,4 +35,4 @@ var students = [
     return document.querySelector("#student-list").appendChild(table);
   }
   
-  displayStudentsTable(students);
+  displayStudentsTable(students); 

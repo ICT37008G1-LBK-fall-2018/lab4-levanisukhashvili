@@ -54,4 +54,4 @@ let student = [
 ];
 
 
-alert(getDiff(student));
+alert(getDiff(student)); 
